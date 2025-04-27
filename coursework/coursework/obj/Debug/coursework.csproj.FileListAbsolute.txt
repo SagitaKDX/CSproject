@@ -1,0 +1,10 @@
+C:\Users\lemin\source\repos\coursework\coursework\bin\Debug\coursework.exe.config
+C:\Users\lemin\source\repos\coursework\coursework\bin\Debug\coursework.exe
+C:\Users\lemin\source\repos\coursework\coursework\bin\Debug\coursework.pdb
+C:\Users\lemin\source\repos\coursework\coursework\obj\Debug\coursework.csproj.AssemblyReference.cache
+C:\Users\lemin\source\repos\coursework\coursework\obj\Debug\coursework.Form1.resources
+C:\Users\lemin\source\repos\coursework\coursework\obj\Debug\coursework.Properties.Resources.resources
+C:\Users\lemin\source\repos\coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\lemin\source\repos\coursework\coursework\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+C:\Users\lemin\source\repos\coursework\coursework\obj\Debug\coursework.exe
+C:\Users\lemin\source\repos\coursework\coursework\obj\Debug\coursework.pdb
